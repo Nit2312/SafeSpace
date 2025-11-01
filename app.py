@@ -8,7 +8,7 @@ load_dotenv()
 # LangChain / LangGraph
 from langchain_groq import ChatGroq
 from langgraph.prebuilt import create_react_agent
-from langchain.agents import tool
+from langchain_core.tools import tool
 from langchain_core.messages import BaseMessage, SystemMessage, HumanMessage
 
 # Optional Twilio (only if secrets are provided)
