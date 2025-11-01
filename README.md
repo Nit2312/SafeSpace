@@ -1,4 +1,5 @@
-# SafeSpace · Friday (Mental Health Chat)
+# SafeSpace · Friday (Mental Health Chat) 
+🔗 Live App: https://safespace-ai.streamlit.app/
 
 A confidential, chat-only mental health support app built with Streamlit. It runs as a single-file app (`app.py`) and uses a ReAct-style agent powered by Groq via LangChain / LangGraph. The assistant “Friday” can:
 
